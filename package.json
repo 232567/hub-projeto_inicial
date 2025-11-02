@@ -1,0 +1,24 @@
+{
+  "name": "3386-git-github-projeto_inicial",
+  "version": "1.0.0",
+  "description": "Este repositório contém os arquivos iniciais de um projeto web desenvolvido como parte do curso de Git e GitHub. O objetivo é consolidar os conhecimentos sobre versionamento de código, estrutura de projetos e publicação no GitHub.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/232567/hub-projeto_inicial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/232567/hub-projeto_inicial/issues"
+  },
+  "homepage": "https://github.com/232567/hub-projeto_inicial#readme",
+  "dependencies": {
+    "@mate-academy/scripts": "^2.1.2"
+  }
+}
